@@ -2,6 +2,11 @@
 
 Resources used during the presentation on Community Summit NA 2024.
 
+The presentation document:
+
+- [PDF format](https://github.com/novakklemen/CSNA-2024-Multiple-Projects-on-D365FO-DevEnv-Using-Git/blob/main/SummitNA2024_KN_Multiple_Projects_on_D365FO_Onebox_Using_Git.pdf)
+- [Microsoft PowerPoint (PPTX) format](https://github.com/novakklemen/CSNA-2024-Multiple-Projects-on-D365FO-DevEnv-Using-Git/blob/main/SummitNA2024_KN_Multiple_Projects_on_D365FO_Onebox_Using_Git.pptx)
+
 
 
 ## Useful links
